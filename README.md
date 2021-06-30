@@ -1,2 +1,4 @@
 # Gentelella-Bootstrap-Theme
-reactjs
+
+## Link to the deployed app
+https://colorlib.com/polygon/gentelella/
